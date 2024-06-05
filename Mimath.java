@@ -188,6 +188,9 @@ public class Mimath {
 		System.out.println("Lo bueno si breve dos veces bueno");
 		System.out.println(res9+" cm3");
 		System.out.println("la chupan");
+		System.out.println("la chupanx2");
+		System.out.println("la chupanx3");
+		System.out.println("la chupanx4");
 	}
 	
 }
