@@ -185,7 +185,7 @@ public class Mimath {
 		System.out.println("----AreaPentagono----");
 				
 		double res9=Mimath.calcularAreaPentagono(4,4);
-				
+		System.out.println("Lo bueno si breve dos veces bueno");
 		System.out.println(res9+" cm3");
 		System.out.println("la chupan");
 		System.out.println("la chupanx2");
