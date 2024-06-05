@@ -10,7 +10,7 @@ public class Mimath {
 	//Potencia
 		public static double potencia(double base, int exponente) {
 	        if (exponente < 0) {
-	            System.out.println("El exponente no puede ser negativo");
+	            System.out.println("El exponente no puede ser negativo tio, espabila");
 	        }
 	
 	        double resultado = 1;
