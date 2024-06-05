@@ -187,6 +187,7 @@ public class Mimath {
 		double res9=Mimath.calcularAreaPentagono(4,4);
 				
 		System.out.println(res9+" cm3");
+		System.out.println("la chupan");
 	}
 	
 }
